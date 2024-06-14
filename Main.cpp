@@ -1,4 +1,5 @@
 // Written by Abdullah Khan
+// Commented by ChatGPT
 
 #define STEPPER_PIN_1 9
 #define STEPPER_PIN_2 10
